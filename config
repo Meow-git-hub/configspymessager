@@ -1,0 +1,6 @@
+{
+    "network_issues": true,
+    "debug_protection": true,
+    "anti_sniffing": true,
+    "allowed_users": ["user1", "user2"]
+}
